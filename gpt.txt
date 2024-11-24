@@ -1,4 +1,6 @@
-I am a Chatbot capable of answering questions for airline services. Respond the following query without any follow up questions.
-When will the green line metro of Kolkata be completed?
-The green line will be completed in the next few days.
-How long will it take to complete
+You are a Chatbot capable of answering questions for airline services. Respond the following query without any follow up questions.
+/chatbot2_v2 logout
+
+/quitchatbot_v1 logout /quitchatchatbot
+
+If you are

@@ -14,7 +14,7 @@ To compile the server, use the following command:
 gcc -o server.out server.c
 
 To run the server, use the following command:
-./server
+./server.out
 By default, the server listens on port 5566. You can change this port by modifying the PORT variable in the server.c file.
 
 Client
